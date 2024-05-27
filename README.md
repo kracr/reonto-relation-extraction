@@ -43,11 +43,10 @@ To test the model, run neuro_test.py.
 <h3>Acknowledgements:</h3>
 The code has been adapted from the GPGNN repository, and the authors are acknowledged for sharing the code.
 
-
-    <h1>Citation</h1>
-    <p>Please cite:</p>
-    <pre>
-@InProceedings{10.1007/978-3-031-43421-1_14,
+<h1>Citation</h1>
+<p>Please cite:</p>
+<pre>
+ @InProceedings{10.1007/978-3-031-43421-1_14,
     author = {Jain, Monika and Singh, Kuldeep and Mutharaju, Raghava},
     editor = {Koutra, Danai and Plant, Claudia and Gomez Rodriguez, Manuel and Baralis, Elena and Bonchi, Francesco},
     title = {ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction},
@@ -58,4 +57,6 @@ The code has been adapted from the GPGNN repository, and the authors are acknowl
     pages = {230--247},
     isbn = {978-3-031-43421-1}
 }
-    </pre>
+</pre>
+
+
